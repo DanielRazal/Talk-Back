@@ -1,0 +1,57 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+app-board {
+border: 1px rgb(57, 57, 57) solid;
+height: 100px;
+}
+
+
+h4{
+color: black;
+}
+
+.center {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);  
+	font-size: 30px;
+	padding: 10px;
+	border-radius: 10px;
+	border: none;
+	background-color: black;
+	color: white;
+}
+
+main{
+display: grid;
+grid-template-columns: 200px 200px 200px;
+grid-gap: 0px;
+position: absolute;
+top: 30%;
+left: 5%;
+}
+
+.timer{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+}
+
+.marginLeft{
+	margin-left: 20%;
+	width: 15%;
+	height: 15%;
+}
+
+
+.alert-danger{
+	left: 65%;
+	margin-top: 130px;
+	width: 60%;
+}

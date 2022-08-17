@@ -1,0 +1,26 @@
+<div class="outer-cont">
+
+    <h4 *ngIf="!winner && !isDraw && showMessage" class="timer">
+      Current Player:{{ Player }} {{ timerCounter }} seconds left 
+    </h4>
+   
+  <main *ngIf="!winner && !isDraw">
+    <app-board
+    *ngFor="let val of squares; let i = index"
+    [value]="val"
+    (click)="sendMove(i)"
+    class="board"
+    ></app-board>
+  </main>
+  <button *ngIf="showButton" (click)="startGame()" class="center">Start Game</button>
+
+  <div class="alert alert-danger" *ngIf="!showButton && (winner || isDraw)">
+    <h4 *ngIf="winner">Player {{ winner }} won!</h4>
+    <h4 *ngIf="isDraw">Draw!!</h4>
+    <br>
+    <h4 class="text-center">Do you want to play another game?</h4>
+    <br>
+    <button class="btn btn-success marginLeft" (click)="restartGame(true)">Yes</button>
+    <button class="btn btn-danger marginLeft" (click)="restartGame(false)">No</button>
+  </div>
+</div>

@@ -1,0 +1,62 @@
+div.container-g ,div.container-r{
+  height: 5vh;
+  width: 10px;
+  display: flex;
+}
+
+div.online-indicator-g , div.online-indicator-r{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #0fcc45;
+  border-radius: 50%;
+  margin-left: -10px;
+  margin-top: 5px;
+  position: relative;
+}
+
+div.online-indicator-r{
+    background-color: red;
+
+}
+
+span.blink-g ,span.blink-r{
+  display: block;
+  width: 15px;
+  height: 15px;
+  background-color: #0fcc45;
+  opacity: 0.7;
+  border-radius: 50%;
+  animation: blink 1s linear infinite;
+}
+
+span.blink-r{
+    background-color: red;
+}
+
+@keyframes blink {
+  100% { transform: scale(2, 2); 
+          opacity: 0;
+        }
+}
+
+table{
+  margin-top: 50px;
+  width: 10%;
+  margin-left: 5%;
+}
+
+
+.space{
+margin-left: 5px;
+margin-top: 1px;
+}
+
+.center{
+display:flex;
+justify-content:center
+}
+
+button{
+  margin-left: 50px;
+}

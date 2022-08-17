@@ -1,0 +1,15 @@
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\bin\Debug\net6.0\TalkBack.User.Data.deps.json
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\bin\Debug\net6.0\TalkBack.User.Data.dll
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\bin\Debug\net6.0\TalkBack.User.Data.pdb
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.AssemblyInfo.cs
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.dll
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\refint\TalkBack.User.Data.dll
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.pdb
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\ref\TalkBack.User.Data.dll
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\bin\Debug\net6.0\TalkBack.Game.Data.dll
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\bin\Debug\net6.0\TalkBack.Game.Data.pdb
+C:\Users\danie\Desktop\TalkBack.Server\TalkBack.User.Data\obj\Debug\net6.0\TalkBack.User.Data.csproj.CopyComplete

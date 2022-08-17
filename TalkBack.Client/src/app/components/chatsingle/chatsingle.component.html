@@ -1,0 +1,47 @@
+<app-default-layout-site></app-default-layout-site>
+
+<div class="outer-cont">
+
+  <div class="ud-header"></div>
+  <div class="ud-body">
+    <div class="board">
+      <app-game
+        [playerX]="playerX"
+        [playerO]="playerO"
+        [userId]="this.senderContact?.userId"
+        [receiverId]="this.receiverContact?.userId"
+      ></app-game>
+    </div>
+
+    <div>
+      <div class="p-1 chat">I am {{ userDisplayName }}, Chat with {{ receiverDisplayName }}</div>
+      <div class="ud-body">
+        <div class="msgBox">
+          <ul>
+            <li *ngFor="let mObj of massageArray"
+             [ngClass]="mObj.user === senderContact?.displayName ? 'firstUser' : 'secondUser'">
+                  <span *ngIf="mObj.msgText"> {{mObj.user}} <br>
+                     <span [ngClass]="mObj.user === senderContact?.displayName
+                      ? 'small p-1 me-3 mb-1 text-white rounded-3 bg-primary' 
+                      : 'small p-1 me-3 mb-3 text-white rounded-3 bg-dark'">{{mObj.msgText}}</span>
+                    </span>
+              </li>
+            </ul>
+          </div>
+      
+          <span class="ud-flex-row">
+              <input type="text"  placeholder="Type message here" maxlength="100" id="message"
+               class="msgInput" [(ngModel)]="massageText" (keyup.enter)="sendMessage()"/>
+              <button class="btn btn-success"  (click)="sendMessage()" *ngIf="isaccept" type="submit">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                 class="bi bi-send-fill" viewBox="0 0 16 16">
+                <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471-.47 1.178Z"/>
+              </svg></button>
+            <span [ngClass]="massageText.length === 100 ? 'red': 'green'">
+              {{massageText.length}}/100</span>
+          </span>
+
+        </div>
+      </div>
+      </div>  
+</div>

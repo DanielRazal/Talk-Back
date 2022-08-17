@@ -1,0 +1,31 @@
+<app-default-layout-login></app-default-layout-login>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-center">
+                    <h1>Login</h1>
+                </div>
+                <form [formGroup]="loginForm" (ngSubmit)="login()">
+                    <div class="mb-3">
+                    <label for="InputUserName" class="form-label">User Name</label>
+                    <input formControlName="userName" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                    <label for="InputPassword" class="form-label">Password</label>
+                    <input formControlName="password" type="password" class="form-control">
+                    </div>
+                    <div *ngFor="let error of errorsService.errorsArray;" class="error">
+                        {{error}}
+                    </div>
+                    <br>
+                    <div>
+                    <button type="submit" class="btn btn-primary mb-1">Login</button>
+                    </div>
+                </form>                      
+            </div>
+        </div>
+    </div>
+</div>
+

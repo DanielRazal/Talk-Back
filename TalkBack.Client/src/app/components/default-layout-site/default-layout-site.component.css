@@ -1,0 +1,17 @@
+.nav-item{
+    margin-left: 2rem;
+}
+.row{
+    color: white;
+}
+
+.btn-success,.btn-danger{
+    width: 20%;
+    height: 10%;
+}
+.btn-success{
+    margin-left: 25%;
+}
+.btn-danger{
+    margin-left: 10%;
+}

@@ -1,0 +1,83 @@
+.firstUser {
+margin-bottom: 10px;
+color: blue;
+text-align: right;
+word-break: break-all;
+}
+
+.secondUser {
+    margin-bottom: 10px;
+    margin-left: -30px;
+    color: red;
+    text-align: left;
+    word-break: break-all;
+}
+
+ul{
+        list-style: none;
+}
+
+.msgInput:focus {
+    outline: none;
+  border-color: #DD1155;
+  box-shadow: 0 0 5px #DD1155;
+}
+
+.msgInput {
+  height: 100%;
+  border-radius: .5em;
+  border: 0px solid rgba(0, 0, 0, 0);
+  padding: 10px;
+  border: 1.5px solid #DD1155;
+  width: 300px;
+  margin-left: 63%;
+  margin-top: 2%;
+}
+
+.red{
+    color: red;
+    font-size: 25px;
+    margin-left: 1%;
+}
+
+.green{
+    color: green;
+    font-size: 25px;
+    margin-left: 1%;
+}  
+
+button{
+    margin-left: 1%;
+}
+
+
+.chat{
+    background-color: black;
+    width: 35%;
+    padding: 10px 30px;
+    margin-left: 63%;
+    margin-top: 3%;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.msgBox {
+    width: 35%;
+    height: 300px;
+    padding: 10px 30px;
+    border-radius: .5em;
+    background-color: whitesmoke;
+    border: 2px solid #191D32;
+    font-size: 14px;
+    overflow: auto;
+    margin-left: 63%;
+}
+
+.bg-dark{
+    margin-left: 15px;
+}
+
+.board{
+ float: left;
+ width: 50%;
+}
