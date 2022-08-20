@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDb1bQlU+iicH5Cz6RGVSgqUt7AA8DczT9WjjJjF4TEjwQHLbNHgZBcbII40C9rmfNcz5AhblDjY+mYPMlI9aw==",
+  "dgSpecHash": "8a0LoEVRTpzlDuQkulxQqxiXYfiPBKxJoMarGdco4mqZAElEkOu0SdcdsdluN84qUH2sgb3EqWduF3Ar8Yypxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\Api.TalkBack.Contact\\Api.TalkBack.Contact.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\Api.TalkBack.Contact\\Api.TalkBack.Contact.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

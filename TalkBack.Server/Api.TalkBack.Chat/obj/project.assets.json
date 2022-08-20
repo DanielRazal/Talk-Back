@@ -1647,11 +1647,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\Api.TalkBack.Chat\\Api.TalkBack.Chat.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\Api.TalkBack.Chat\\Api.TalkBack.Chat.csproj",
       "projectName": "Api.TalkBack.Chat",
-      "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\Api.TalkBack.Chat\\Api.TalkBack.Chat.csproj",
+      "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\Api.TalkBack.Chat\\Api.TalkBack.Chat.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\Api.TalkBack.Chat\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\Api.TalkBack.Chat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1672,8 +1672,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Chat.Data\\TalkBack.Chat.Data.csproj": {
-              "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Chat.Data\\TalkBack.Chat.Data.csproj"
+            "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Chat.Data\\TalkBack.Chat.Data.csproj": {
+              "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Chat.Data\\TalkBack.Chat.Data.csproj"
             }
           }
         }

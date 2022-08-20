@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Contact.Data\\TalkBack.Contact.Data.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Contact.Data\\TalkBack.Contact.Data.csproj",
       "projectName": "TalkBack.Contact.Data",
-      "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Contact.Data\\TalkBack.Contact.Data.csproj",
+      "projectPath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Contact.Data\\TalkBack.Contact.Data.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Contact.Data\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Contact.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

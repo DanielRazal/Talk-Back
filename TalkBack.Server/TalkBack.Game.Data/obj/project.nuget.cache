@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WaJ2kLRdH2X6rCxf7VQ+e9iO3v5eYKyqhs7UitPjJ869bYp5Q8YI1RWZ1AJFhhR80S8kP/FyU8r11unDUBHvtA==",
+  "dgSpecHash": "5UyHCLi/w8KVlG4+1N1IXqJQFY9GrwvZyR9JVFV8YtR2JodbU27NtWYfqawZ3Yl+yJ4pICKVDP5dymAmvBhQPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\TalkBack.Server\\TalkBack.Game.Data\\TalkBack.Game.Data.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\TalkBack\\TalkBack.Server\\TalkBack.Game.Data\\TalkBack.Game.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
