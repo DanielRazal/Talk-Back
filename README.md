@@ -23,3 +23,12 @@ to each other with a chat between them.
   The definition of the database server is found in the appsettings.Json file
   in the User and Contact API where we will have to change to our local server in the **ConnectionString**.
 4) Run the project (Ctrl + f5).
+
+**Client Side:**
+
+1) Open Visual Studio Code.
+2) Open the file **TalkBack.Client**.
+3) Click on Terminal -> New Terminal.
+4) Make sure URL ends with **\TalkBack\TalkBack.Client**.
+5) Write the command **ng serve**.
+6) The local server must be running on **http://localhost:4200/**.
