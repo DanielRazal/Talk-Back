@@ -13,7 +13,7 @@ to each other with a chat between them.
 
 1) Open Visual Studio 2022.
 
-2) Open the file **TalkBack.Server**.
+2) Open the **TalkBack.Server** file.
 
 3) We need to run all 4 projects of the API.
 
@@ -29,7 +29,7 @@ to each other with a chat between them.
 **Client Side:**
 
 1) Open Visual Studio Code.
-2) Open the file **TalkBack.Client**.
+2) Open the **TalkBack.Client** file.
 3) Click on Terminal -> New Terminal.
 4) Make sure URL ends with **\TalkBack\TalkBack.Client**.
 5) Write the command **ng serve**.
