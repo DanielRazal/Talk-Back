@@ -8,6 +8,7 @@ connected and disconnected users,the possibility of a game(Tic-Tac-Toe) between 
 to each other with a chat between them.
 
 **How to run the project?**
+
 **Server Side:**
 
 1) Open Visual Studio 2022.
