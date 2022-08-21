@@ -10,9 +10,7 @@ to each other with a chat between them.
 **How to run the project?**
 **Server Side:**
 
-1)Open Visual Studio 2022
-
-
+1) Open Visual Studio 2022.
 
 2) We need to run all 4 projects of the API.
 **How to run multiple projects?**
@@ -21,4 +19,4 @@ to each other with a chat between them.
 3) A **database (SQLServer)** is used and we need to adapt it to our local server,
   The definition of the database server is found in the appsettings.Json file
   in the User and Contact API where we will have to change to our local server in the **ConnectionString**.
-4) Run the project (Ctrl + f5)
+4) Run the project (Ctrl + f5).
