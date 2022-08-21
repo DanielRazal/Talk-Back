@@ -10,4 +10,8 @@ to each other with a chat between them.
 **How to run the project?**
 **Server Side:**
 
-1)
+1) We need to run all 4 projects of the API.
+**How to run multiple projects?**
+* Right click on the solution -> Properties -> Mark the option: Multiple startup projects -> In the Action column, change 4 API
+* (Api.TalkBack.User,Api.TalkBack.Contact,Api.TalkBack.Chat,Api.TalkBack.Game) from None to Start.
+2)
