@@ -2,10 +2,12 @@
 
 **Explanation of the project:**
 
-Developing a **#C Web Api .Net & Angular** to build Talk Back using **SignalR** - Communication between
-the server and the client ,using a **JWT Token**, a registration and login screen,displaying all
-connected and disconnected users,the possibility of a game(Tic-Tac-Toe) between 2 users and taking 
-to each other with a chat between them.
+Developing a #C Web Api .Net & Angular.
+
+TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.
+The system consists of clients that connect to a central application server, this allows them to see who is online,
+and to choose whom to talk to or play Tic-Tac-Toe against.
+
 
 **How to run the project?**
 
