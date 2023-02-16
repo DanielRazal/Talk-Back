@@ -31,7 +31,7 @@ enabling them to see who is online and choose with whom to talk or play Tic-Tac-
 
 1) Open Visual Studio Code.
 2) Open the **TalkBack.Client** file.
-3) Open the Terminal (CTRL + J).
+3) Click on Terminal and select New Terminal.
 4) Make sure the URL ends with **\TalkBack\TalkBack.Client**.
 5) Type the command **ng serve** and press Enter.
 6) The local server must be running on **http://localhost:4200/**.
