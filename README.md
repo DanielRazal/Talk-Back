@@ -1,12 +1,11 @@
 **Talk-Back**
 
-**Explanation of the project:**
+**Project Description:**
 
-Developing a #C Web Api .Net & Angular.
-
+Developed a **#C Web API using .NET and Angular**.
 TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.
-The system consists of clients that connect to a central application server, this allows them to see who is online,
-and to choose whom to talk to or play Tic-Tac-Toe against.
+The system consists of clients that connect to a central application server,
+enabling them to see who is online and choose with whom to talk or play Tic-Tac-Toe.
 
 
 **How to run the project?**
