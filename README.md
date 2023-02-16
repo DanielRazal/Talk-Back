@@ -5,7 +5,9 @@
 Developed a **#C Web API using .NET and Angular**.
 
 TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.
+<br>
 The system consists of clients that connect to a central application server,
+<br>
 enabling them to see who is online and choose with whom to talk or play Tic-Tac-Toe.
 
 
