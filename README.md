@@ -2,7 +2,7 @@
 
 **Project Description:**
 
-Developed a **#C Web API using .NET and Angular**.
+Developed using **C# Web API, Angular and Sql Server**.
 <br>
 TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.
 <br>
