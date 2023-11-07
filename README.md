@@ -22,17 +22,14 @@ To run the **"Talk-Back"** project, execute the following commands:
 * Right-click on the solution and select Properties.
 * Select the option "Multiple startup projects."
 * In the Action column, change the value of 4 APIs (Api.TalkBack.User, Api.TalkBack.Contact, Api.TalkBack.Chat, Api.TalkBack.Game) from "None" to "Start."
-  
-4. A SQL Server Database is used and you will need to adapt it to your local server,
-  database server is defined in the **appsettings.Json** file
-  in the **User and Contact API** Change the **ConnectionString** to your local server.
+4. Change my **ConnectionString (appsettings.Json)** to yours in files **User and Contact API**.
 5. Run the project using the shortcut Ctrl + F5.
 
 **Client Side:**
 
-1) Open Visual Studio Code.
-2) Open the **TalkBack.Client** file.
-3) Click on Terminal and select New Terminal.
-4) Make sure the URL ends with **\TalkBack\TalkBack.Client**.
-5) Type the command **ng serve** and press Enter.
-6) The local server must be running on **http://localhost:4200/**.
+1. Open Visual Studio Code.
+2. Open the **TalkBack.Client** file.
+3. Click on Terminal and select New Terminal.
+4. Make sure the URL ends with **\TalkBack\TalkBack.Client**.
+5. Type the command **ng serve** and press Enter.
+6. The local server must be running on **http://localhost:4200/**.
