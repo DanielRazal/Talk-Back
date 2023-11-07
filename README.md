@@ -12,20 +12,21 @@ To run the **"Talk-Back"** project, execute the following commands:
 
 ### Server (C#):
 
-1) Open Visual Studio 2022.
+1. Open Visual Studio 2022.
 
-2) Open the **TalkBack.Server** file.
+2. Open the **TalkBack.Server** file.
 
-3) To run all 4 projects of the API, follow these steps:
+3. To run all 4 projects of the API, follow these steps:
 
 **How to run multiple projects?**
 * Right-click on the solution and select Properties.
 * Select the option "Multiple startup projects."
 * In the Action column, change the value of 4 APIs (Api.TalkBack.User, Api.TalkBack.Contact, Api.TalkBack.Chat, Api.TalkBack.Game) from "None" to "Start."
-4) A SQL Server Database is used and you will need to adapt it to your local server,
+  
+4. A SQL Server Database is used and you will need to adapt it to your local server,
   database server is defined in the **appsettings.Json** file
   in the **User and Contact API** Change the **ConnectionString** to your local server.
-5) Run the project using the shortcut Ctrl + F5.
+5. Run the project using the shortcut Ctrl + F5.
 
 **Client Side:**
 
