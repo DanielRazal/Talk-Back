@@ -1,19 +1,16 @@
-**Talk-Back Project**
+# Talk-Back
 
-**Project Description:**
-
-Developed using **C# Web API, Angular and Sql Server**.
-<br>
-TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.
-<br>
-The system consists of clients that connect to a central application server,
-<br>
+Developed using **C# Web API, Angular and Sql Server**.\
+TalkBack is a messaging system that allows users to chat with each other and play Tic-Tac-Toe against each other.\
+The system consists of clients that connect to a central application server,\
 enabling them to see who is online and choose with whom to talk or play Tic-Tac-Toe.
 
 
-**How to run the project?**
+## Running the Project
 
-**Server Side:**
+To run the **"Talk-Back"** project, execute the following commands:
+
+### Server (C#):
 
 1) Open Visual Studio 2022.
 
